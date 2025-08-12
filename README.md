@@ -7,6 +7,7 @@ Option 3 – Word Frequency Analyzer
 This program analyzes a .txt file and reports the most frequent words in the file. It also generates a bar chart visualization of the top words.
 
 Features
+
 Accepts a path to a .txt file.
 
 Ignores punctuation and letter case.
@@ -16,6 +17,7 @@ Displays the top 10 most frequent words with their counts and percentages.
 Bonus: Generates a bar chart of the top words using Matplotlib.
 
 Handles large files efficiently by reading them in chunks.
+
 
 How to Run
 Install Dependencies
