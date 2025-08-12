@@ -1,7 +1,3 @@
-Word Frequency Analyzer
-
-Option Chosen
-
 Option 3 – Word Frequency Analyzer
 
 This program analyzes a .txt file and reports the most frequent words in the file. It also generates a bar chart visualization of the top words.
